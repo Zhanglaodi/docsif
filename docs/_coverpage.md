@@ -6,4 +6,5 @@
 
 - 轻松、简单
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/Zhanglaodi/)
+[Get Started](/description.md)

@@ -1,5 +1,5 @@
-* [入坑](/)
-  * [ubuntu安装](/linux/ubuntu%E5%AE%89%E8%A3%85.md)  
+* [入坑](/guide/)
+  * [说明](/description.md)  
 * [JAVA](/java/)
   * [解决Springboot配置Springboot admin IP地址显示正确](/java/%E8%A7%A3%E5%86%B3SpringadminIP%E5%9C%B0%E5%9D%80%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E7%A1%AE.md)
 * [分享](/share/)
