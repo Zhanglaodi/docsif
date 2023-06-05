@@ -17,5 +17,6 @@
   * [portainer安装](/docker/portainer%E5%AE%89%E8%A3%85.md)
   * [IDEA中配置且使用docker](/docker/IDEA%E4%B8%AD%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%BD%BF%E7%94%A8Docker.md)
   * [Dockerfile使用openjdk:8-jdk-alpine构建java一些问题](/docker/openjdk8_jdk_alpine.md)
+  * [Docker安装file browser](/docker/docker%E5%AE%89%E8%A3%85filebrowser.md)
 * [linux](/linux/)
   * [ubuntu安装](/linux/ubuntu%E5%AE%89%E8%A3%85.md)
