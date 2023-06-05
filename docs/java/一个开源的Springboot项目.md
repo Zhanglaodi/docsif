@@ -195,6 +195,58 @@ management:
 |  ----  | ----  | ----  | ----  |
 | 不省事  | 省事 | 不太省事 | 很省事  |
 
+#### docker-compose部署
+
+> 配置了自启动
+>
+> 数据库东西比较重要就记得多备份
+
+1. 创建文件夹
+
+   ```bash
+   mkdir data \ 
+   mkdir conf \
+   mkdir logs
+   ```
+
+2. docker-compose.yml
+
+   ```yml
+   version: '3'
+   services:
+     mysql:
+       image: mysql
+       restart: always
+       privileged: true
+       container_name: mysql
+       environment:
+         MYSQL_ROOT_HOST: '%'
+         MYSQL_ROOT_PASSWORD: 123456
+         TZ: Asia/Shanghai
+       ports:
+         - 3306:3306
+       volumes:
+         - ./data:/var/lib/mysql
+         - ./conf/my.cnf:/etc/mysql/my.cnf
+         - ./logs:/var/log/mysql
+       command:
+         --max_connections=1000
+         --character-set-server=utf8mb4
+         --collation-server=utf8mb4_general_ci
+         --default-authentication-plugin=mysql_native_password
+         --default-time-zone='+8:00'
+   ```
+
+#### 宝塔托管
+
+> 8.0吃服务器配置 1核1G不要碰了
+
+无脑安装
+
+#### 手动编译安装
+
+> 自行百度。
+
 ### Springboot
 
 1. 常用的
