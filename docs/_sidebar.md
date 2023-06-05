@@ -2,6 +2,7 @@
   * [说明](/description.md)  
 * [JAVA](/java/)
   * [解决Springboot配置Springboot admin IP地址显示正确](/java/%E8%A7%A3%E5%86%B3SpringadminIP%E5%9C%B0%E5%9D%80%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E7%A1%AE.md)
+  * [一个开源的spring boot项目](/java/%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84Springboot%E9%A1%B9%E7%9B%AE.md)
 * [分享](/share/)
   * [chatgpt镜像、网盘资源和电子书搜索](/share/chatgpt%E9%95%9C%E5%83%8F%26%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%26%E7%94%B5%E5%AD%90%E4%B9%A6%E6%90%9C%E7%B4%A2.md)
   * [4K电影美剧下载 - HDR杜比视界资源 -  4KHDR世界 -  4KHDR.CN](./share/4K%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%89%A7.md)
