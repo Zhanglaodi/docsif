@@ -20,3 +20,4 @@
   * [Docker安装file browser](/docker/docker%E5%AE%89%E8%A3%85filebrowser.md)
 * [linux](/linux/)
   * [ubuntu安装](/linux/ubuntu%E5%AE%89%E8%A3%85.md)
+  * [宝塔面板开心版](/linux/%E5%AE%9D%E5%A1%94%E5%BC%80%E5%BF%83%E7%89%88.md)
