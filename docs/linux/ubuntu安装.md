@@ -35,6 +35,10 @@ apt install vim
 
 ### 修改profile文件
 
+```sh
+sudo vim /root/.profile
+```
+
 注释掉或者删除行(光标移动那一行，dd就删除了)
 
 ```sh
