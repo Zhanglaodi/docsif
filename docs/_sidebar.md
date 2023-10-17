@@ -20,4 +20,5 @@
   * [Docker安装file browser](/docker/docker%E5%AE%89%E8%A3%85filebrowser.md)
 * [linux](/linux/)
   * [ubuntu安装](/linux/ubuntu%E5%AE%89%E8%A3%85.md)
+  * [关闭Intel快速存储](/linux/%E5%AE%89%E8%A3%85ubuntu%E6%8F%90%E7%A4%BA%E5%85%B3%E9%97%ADIntel%E5%BF%AB%E9%80%9F%E5%AD%98%E5%82%A8.md)
   * [宝塔面板开心版](/linux/%E5%AE%9D%E5%A1%94%E5%BC%80%E5%BF%83%E7%89%88.md)
